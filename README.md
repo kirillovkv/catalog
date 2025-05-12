@@ -1,3 +1,3 @@
-[Демо на 1000 товаров (Swagger)](catalog.kirillovkvdev.ru/api/documentation)
+[Демо на 1000 товаров (Swagger)](http://catalog.kirillovkvdev.ru/api/documentation)
 
-[Laravel Telescope (для просмотра всех запросов)](catalog.kirillovkvdev.ru/telescope)
+[Laravel Telescope (для просмотра всех запросов)](http://catalog.kirillovkvdev.ru/telescope)
