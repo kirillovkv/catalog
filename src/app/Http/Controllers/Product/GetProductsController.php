@@ -18,14 +18,14 @@ use Illuminate\Support\Facades\Log;
  *     summary="Получение списка товаров с фильтрацией по опциям",
  *     tags={"Products"},
  *     @OA\Parameter(
- *         name="Цвет",
+ *          name="properties[Цвет][]",
  *         in="query",
  *         description="Фильтр по цвету (например: Цвет=Красный&Цвет=Синий)",
  *         required=false,
  *         @OA\Schema(type="array", @OA\Items(type="string"))
  *     ),
  *     @OA\Parameter(
- *         name="Материал",
+ *          name="properties[Материал][]",
  *         in="query",
  *         description="Фильтр по материалу (например: Материал=Дерево)",
  *         required=false,
